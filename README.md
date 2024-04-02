@@ -17,8 +17,6 @@ Whether you're curious about your celebrity doppelganger or want to explore the 
 
 I've learned a great deal throughout this project, from data preprocessing to model training, and I'm excited to share my journey with you. 🌟
 
-GitHub repository link : https://github.com/Codewithakk/face-recognition- 📁
-
 #Python #AI #FacialRecognition #DeepLearning #MachineLearning #Keras #TeachableMachine #NumPy #Tkinter #DataScience #Project #Tech
 python face-recognition
 in your cmd(comment prompt)
